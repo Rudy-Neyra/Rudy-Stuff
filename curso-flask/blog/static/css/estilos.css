@@ -1,0 +1,18 @@
+body{
+    background: #dadadb;
+}
+.nav{
+    background: #eaedf3;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.nav a{
+    font-size: 20px;
+    color: #141313;
+}
+.nav a:hover{
+    color: #2e2d2d;
+    font-size: 23px;
+}
+
